@@ -16,4 +16,8 @@ Head over to the [Human Software](https://humansoftware.page) website to sign up
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/richard-bown/), [twitter](https://twitter.com/bown_rw) and [mastodon](https://mastodon.social/@bownie).
 
-<script async data-uid="1848a31170" src="https://richardbown.ck.page/1848a31170/index.js"></script>
+<html>
+  <head>
+    <script async data-uid="1848a31170" src="https://richardbown.ck.page/1848a31170/index.js"></script>
+  </head>
+</html>
